@@ -1,0 +1,20 @@
+gameworld map
+
+The game world map is 2048 x 1024.
+Assuming all other major characteristics are like Earth, this means each pixel is equal to approximately 20km^2, or approximately 150 square miles. By comparison, Just Cause 3 open world is about 400 square miles.
+The hex grid scale is approximately 1000km across.
+At this scale, the effects of manmade destruction, even from an orbital bombardment wouldn't be seen, especially as a couple of millenia have passed. 
+
+
+Maps should only be made for the most important areas of the world with some form of portal/fast travel system being used to go between them. These zones will have to have their relationship to each other mapped out in a subway map fashion.
+
+The image's colors reflect certain climate features. The green near the equator relates to high rainfall/moisture near the Inter-tropic Convergence Zone near the equator. I moves slightly with seasons, more over land than sea. Warm moist air rises as part of a Hadley cell.
+The brown colors mark the Subtropical ridge, otherwise known as the horse latitudes. This is where cool dry air falls and marks the boundary between the Hadley and Ferrel cells close to 30 degrees from the equator. Most deserts occur here as the air is very dry.
+The boundaries of cells closest to the poles mark the polar front.
+The boundaries between the cells are where the jet streams are.
+Changing seasons cause the cells to jostle around a bit which, taken global high and low pressure systems into account as well as ocean currents, change temperature and moisture in different areas, perhaps even causing monsoon conditions.
+The increased size of the polar caps represent a limited 'nuclear winter' caused by ejecta and dust from the orbital bombardment.
+At this time, all that is of lesser importance and I'll work out details later.
+
+
+
